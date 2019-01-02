@@ -1,5 +1,5 @@
 # VAdmin Dashboard Template
-Modified from Responsive admin dashboard template developed by [Epicmax](https://epicmax.co), designed by [Vasili Savitski](https://xxsavitski.myportfolio.com/). This is a customized version of the original based on my demands. I don't recommend you to use my version as it's not well-documented. You can refer to the original version above and check for its documents if need. The decision is yours.
+Modified from Responsive admin dashboard template developed by [Epicmax](https://epicmax.co), designed by [Vasili Savitski](https://xxsavitski.myportfolio.com/). This is a customized version of the original based on my demands. I don't recommend you to use my version as it's not well-documented. You can refer to the original version above and check for its document if need. The decision is yours.
 
 ## Modifications
 Here're the list of modifications I (@loitd) made compared to the original version 1.9.0
@@ -64,4 +64,4 @@ $ npm run build --report
 * and many more!
 
 ## License
-[MIT](https://github.com/epicmaxco/vuestic-admin/blob/master/LICENSE) license.
+[MIT](https://github.com/loitd/vadmin/blob/master/LICENSE) license.
